@@ -40,8 +40,5 @@
 ### List all stashes
 `git stash list`
 
-### Add specific parts of a file to your staging area
-`git add -p`
-
 ### Stash specific parts of a file
 `git stash -p`
