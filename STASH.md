@@ -35,7 +35,7 @@
 `git stash clear`
 
 ### To peek into a stash
-`git stash show <stash reference>
+`git stash show <stash reference>`
 
 ### List all stashes
 `git stash list`
